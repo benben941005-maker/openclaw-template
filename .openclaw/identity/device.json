@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "deviceId": "xxx_DEVICE_ID_xxx",
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nxxx_PUBLIC_KEY_xxx\n-----END PUBLIC KEY-----\n",
+  "privateKeyPem": "-----BEGIN PRIVATE KEY-----\nxxx_PRIVATE_KEY_xxx\n-----END PRIVATE KEY-----\n",
+  "createdAtMs": 1777103998843
+}

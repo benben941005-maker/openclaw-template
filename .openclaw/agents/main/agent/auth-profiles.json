@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "profiles": {
+    "openai-codex:xxx_YOUR_EMAIL_xxx": {
+      "type": "oauth",
+      "provider": "openai-codex",
+      "access": "xxx_OPENAI_ACCESS_TOKEN_xxx",
+      "refresh": "xxx_OPENAI_REFRESH_TOKEN_xxx",
+      "expires": 1777986652910,
+      "email": "xxx_YOUR_EMAIL_xxx"
+    }
+  }
+}

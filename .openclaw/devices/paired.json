@@ -1,0 +1,32 @@
+{
+  "xxx_DEVICE_ID_xxx": {
+    "deviceId": "xxx_DEVICE_ID_xxx",
+    "publicKey": "xxx_PUBLIC_KEY_xxx",
+    "platform": "linux",
+    "clientId": "gateway-client",
+    "clientMode": "backend",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.read"
+    ],
+    "approvedScopes": [
+      "operator.read"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "xxx_OPERATOR_TOKEN_xxx",
+        "role": "operator",
+        "scopes": [
+          "operator.read"
+        ],
+        "createdAtMs": 1777121157131
+      }
+    },
+    "createdAtMs": 1777121157131,
+    "approvedAtMs": 1777121157131,
+    "displayName": "gateway:channels.status"
+  }
+}

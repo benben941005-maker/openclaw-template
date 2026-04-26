@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "lastGood": {
+    "openai-codex": "openai-codex:xxx_YOUR_EMAIL_xxx"
+  },
+  "usageStats": {
+    "openai-codex:xxx_YOUR_EMAIL_xxx": {
+      "errorCount": 0,
+      "lastUsed": 1777179134474,
+      "lastFailureAt": 1777179133842
+    }
+  }
+}
