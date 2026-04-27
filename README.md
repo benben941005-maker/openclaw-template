@@ -84,7 +84,7 @@ rm ~/.openclaw/identity/device-auth.json
 rm ~/.openclaw/devices/paired.json
 
 # 4. Log in to OpenAI (fills in auth-profiles.json automatically)
-openclaw auth login openai-codex
+openclaw models auth login --provider openai-codex
 
 # 5. Start the gateway
 openclaw gateway
